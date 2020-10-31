@@ -1,3 +1,9 @@
-p {
-    font-size: 200px;
+.parallax {
+    background-image: url('https://i.imgur.com/aZRI7aG.jpg');
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
